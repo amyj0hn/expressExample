@@ -1,0 +1,108 @@
+{
+    "products":[
+        {
+            "id": "1",
+            "productName":"Red Purse",
+            "description":"Medium bag suitable to hold all necessities.",
+            "amount":"R150" ,
+            "img_url":"https://amyj0hn.github.io/project-images/images/item_1.jpg"
+        },
+
+        {
+            "id": "2",
+            "productName":"Purse",
+            "description":"This handbag comes with a matching wallet.",
+            "amount":"R200",
+            "img_url":"https://amyj0hn.github.io/project-images/images/item_2.jpg"
+        },
+
+        {
+            "id": "3",
+            "productName":"ADIDAS Purse",
+            "description":"Purse handbag with a gold linked chain sling.",
+            "amount":"R250",
+            "img_url":"https://amyj0hn.github.io/project-images/images/item_3.jpg"
+        },
+
+        {
+            "id": "4",
+            "productName":"Purse",
+            "description":"Adorable handbag with scarf",
+            "amount":"R200",
+            "img_url":"https://amyj0hn.github.io/project-images/images/item_4.jpg"
+        },
+
+        {
+            "id": "5",
+            "productName":"I Love Africa Purse",
+            "description":"Cute purse, perfect for everyday use",
+            "amount":"R120",
+            "img_url":"https://amyj0hn.github.io/project-images/images/item_5.jpg"
+
+        },
+
+        {
+            "id": "6",
+            "productName":"...",
+            "description":"Available Soon",
+            "amount":"R0",
+            "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
+
+        },
+
+        {
+            "id": "7",
+            "productName":"...",
+            "description":"Available Soon",
+            "amount":"R0",
+            "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
+
+        },
+
+        {
+            "id": "8",
+            "productName":"...",
+            "description":"Available Soon",
+            "amount":"R0",
+            "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
+
+        },
+
+        {
+            "id": "9",
+            "productName":"...",
+            "description":"Available Soon",
+            "amount":"R0",
+            "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
+
+        },
+
+        {
+            "id": "10",
+            "productName":"...",
+            "description":"Available Soon",
+            "amount":"R0",
+            "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
+
+        },
+
+        {
+            "id": "11",
+            "productName":"...",
+            "description":"Available Soon",
+            "amount":"R0",
+            "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
+
+        },
+        {
+            "id": "12",
+            "productName":"...",
+            "description":"Available Soon",
+            "amount":"R0",
+            "img_url":"https://amyj0hn.github.io/project-images/images/comingsoon.avif"
+
+        }
+
+
+    ]
+}
